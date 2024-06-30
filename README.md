@@ -17,3 +17,6 @@
   ###### This is a public everyone can access without authentication
 ##### /admin (Private)
   ###### This API is now accessable to outside world we need valid JWT token to access this endpoint. 
+
+###### In This i have used H2 In-Memory Database
+###### Token expired time 2 min
