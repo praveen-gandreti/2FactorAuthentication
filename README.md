@@ -8,7 +8,7 @@
 ###### In This i have used H2 In-Memory Database
 ###### Token expired time 2 min
 
-#### REST-API ENDPOINTS
+#### REST-API ENDPOINTS :
 
 ##### /USER/SAVE (public)
   ###### This API is used to insert user into H2 Database.
