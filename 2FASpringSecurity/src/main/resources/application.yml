@@ -1,0 +1,23 @@
+spring:
+  application:
+    name: 2-factor-authentication
+  h2:
+    console:
+      enabled: true
+  mail:
+    host: smtp.gmail.com
+    protocol: smtp
+    port: 587
+    username: gandretipraveen032@gmail.com
+    password: uwjc qidu pqqr wdzu
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+    default-encoding: UTF-8
+custom:
+  jwt:
+   secret:
+   key: pr@veen
